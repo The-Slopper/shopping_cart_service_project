@@ -1,7 +1,7 @@
 {
   "name": "shopping-cart-service-project",
   "version": "1.0.0",
-  "description": "Servico de carrinho de compras.",
+  "description": "Shopping cart service.",
   "author": "Engineering Team <engineering@example.com>",
   "license": "MIT",
   "private": true,

